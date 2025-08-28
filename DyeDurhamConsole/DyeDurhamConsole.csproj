@@ -12,4 +12,10 @@
     <ProjectReference Include="..\DyeDurhamSorter\DyeDurhamSorter.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="unsorted.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
