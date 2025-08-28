@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DyeDurhamNameSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "unsorted.txt"
+    }
+  }
+}
